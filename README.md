@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="50" src="https://www.sun.ac.za/english/learning-teaching/learning-teaching-enhancement/learning-technologies/PublishingImages/camtasia/camtasia.png"  />
+<img align="left" height="50" src="https://www.etgigrup.com/wp-content/uploads/2019/11/Camtasia_Logo_Green.png"  />
 
 ###
 
