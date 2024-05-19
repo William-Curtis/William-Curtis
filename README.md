@@ -60,19 +60,24 @@
 
 ###
 
-<h3 align="left">Undergraduate Courses Taken</h3>
+<h3 align="left">Computer Science Courses</h4>
 
 ###
 
-<h4 align="left">Computer Science Courses</h4>
+* Intro to Python
+* Intro to Java
+* Intro to C and C++
+* Comparative Programing Languages
+* Intro to Digital System Design
+* Intro to Operating Systems
+* Data Structures and Algorithms
+* Communication in the Computer Industry
+* Social Issues, Ethics, and Professionalism (Inc. Web Accessibility)
+* Intro to Software Engineering</p>
 
 ###
 
-<p align="left">* Intro to Python<br>* Intro to Java<br>* Intro to C and C++<br>* Comparative Programing Languages<br>* Intro to Digital System Design<br>* Intro to Operating Systems<br>* Data Structures and Algorithms<br>* Communication in the Computer Industry<br>* Social Issues, Ethics, and Professionalism (Inc. Web Accessibility)<br>* Intro to Software Engineering</p>
-
-###
-
-<h4 align="left">Mathematics Courses</h4>
+<h3 align="left">Mathematics Courses</h4>
 
 ###
 
