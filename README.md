@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="50" src="https://www.sun.ac.za/english/learning-teaching/learning-teaching-enhancement/learning-technologies/PublishingImages/camtasia/camtasia.png"  />
+<img align="left" height="50" src="https://campus.castellsimmerscom.com/pluginfile.php/3185/course/overviewfiles/camtasia-2018-press.png"  />
 
 ###
 
