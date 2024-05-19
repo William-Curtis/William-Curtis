@@ -66,7 +66,7 @@
 * Intro to Python
 * Intro to Java
 * Intro to C and C++
-* Comparative Programing Languages
+* Comparative Programming Languages
 * Intro to Digital System Design
 * Intro to Operating Systems
 * Data Structures and Algorithms
