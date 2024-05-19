@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">Computer Science Courses</h4>
+<h3 align="left">Computer Science Undergraduate Courses</h4>
 
 ###
 
@@ -77,10 +77,13 @@
 
 ###
 
-<h3 align="left">Mathematics Courses</h4>
+<h3 align="left">Mathematics Undergraduate Courses</h4>
 
 ###
 
-<p align="left">* Discrete Mathematics<br>* Calculus and Computational Methods<br>* Linear Algebra<br>* Probability and Statistics</p>
+* Discrete Mathematics
+* Calculus and Computational Methods
+* Linear Algebra
+* Probability and Statistics
 
 ###
