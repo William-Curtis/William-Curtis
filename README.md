@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="50" src="https://pbs.twimg.com/profile_images/851858229973966848/zA2UfYxr_400x400.jpg"  />
+<img align="left" height="50" src="[https://pbs.twimg.com/profile_images/851858229973966848/zA2UfYxr_400x400.jpg](https://www.queensu.ca/ctl/ed-tech-toolkit/sites/edtechwww/files/uploaded_files/camtasia-logo_2021-08-19-231239.jpg)"  />
 
 ###
 
