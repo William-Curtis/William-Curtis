@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="35" src="https://www.etgigrup.com/wp-content/uploads/2019/11/Camtasia_Logo_Green.png"  />
+<img align="left" height="25" src="https://www.etgigrup.com/wp-content/uploads/2019/11/Camtasia_Logo_Green.png"  />
 
 ###
 
