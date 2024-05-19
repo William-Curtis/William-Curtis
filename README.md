@@ -34,11 +34,11 @@
 
 ###
 
-<img align="left" height="100" src="https://campus.castellsimmerscom.com/pluginfile.php/3185/course/overviewfiles/camtasia-2018-press.png"  />
+<img align="left" height="150" src="https://campus.castellsimmerscom.com/pluginfile.php/3185/course/overviewfiles/camtasia-2018-press.png"  />
 
 ###
 
-<p align="left"><br><br></p>
+<p align="left"><br><br><br></p>
 
 ###
 
