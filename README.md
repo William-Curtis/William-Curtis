@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="50" src="https://www.queensu.ca/ctl/ed-tech-toolkit/sites/edtechwww/files/uploaded_files/camtasia-logo_2021-08-19-231239.jpg"  />
+<img align="left" height="50" src="https://www.sun.ac.za/english/learning-teaching/learning-teaching-enhancement/learning-technologies/PublishingImages/camtasia/camtasia.png"  />
 
 ###
 
