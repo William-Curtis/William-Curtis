@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">Graphic Design</h3>
+<h3 align="left">Graphic Design Software</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Video Editor</h3>
+<h3 align="left">Video Editing Software</h3>
 
 ###
 
