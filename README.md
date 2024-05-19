@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="50" src="https://campus.castellsimmerscom.com/pluginfile.php/3185/course/overviewfiles/camtasia-2018-press.png"  />
+<img align="left" height="100" src="https://campus.castellsimmerscom.com/pluginfile.php/3185/course/overviewfiles/camtasia-2018-press.png"  />
 
 ###
 
