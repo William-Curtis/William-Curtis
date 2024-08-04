@@ -66,12 +66,14 @@
 * Intro to Python
 * Intro to Java
 * Intro to C and C++
+* Major Programming Paradigms
 * Comparative Programming Languages
 * Intro to Digital System Design
 * Intro to Operating Systems
 * Data Structures and Algorithms
 * Communication in the Computer Industry
-* Social Issues, Ethics, and Professionalism (Inc. Web Accessibility)
+* Social Issues, Ethics, and Professionalism
+* Web Accessibility
 * Intro to Software Engineering</p>
 
 ###
