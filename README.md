@@ -35,18 +35,6 @@
 
 ###
 
-<h3 align="left">Graphic Design Software</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="40" alt="illustrator logo"  />
-</div>
-
-###
-
 <h3 align="left">Video Editing Software</h3>
 
 ###
