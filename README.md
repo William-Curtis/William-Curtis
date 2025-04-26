@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="40" alt="jQuery logo"  />
 </div>
 
