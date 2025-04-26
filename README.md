@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/rust.svg&logoColor=orange&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img src="https://simpleicons.org/icons/rust.svg" height="40" alt="Rust logo"  />
 </div>
 
 ###
