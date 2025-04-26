@@ -13,7 +13,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/rust.svg" height="40" alt="Rust logo"  />
+  <img src="https://pharo.org/web/files/pharo.png" height="40" alt="smalltalk logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" height="40" alt="elixir logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" height="40" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="40" alt="jQuery logo"  />
 </div>
 
 ###
