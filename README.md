@@ -63,8 +63,10 @@
 * Data Structures and Algorithms
 * Communication in the Computer Industry
 * Social Issues, Ethics, and Professionalism
-* Web Accessibility
-* Intro to Software Engineering</p>
+* Intro to Software Engineering
+* Computer Organization I & II
+* Comparative Programming Languages
+* Intro to Operating Systems</p>
 
 ###
 
